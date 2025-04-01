@@ -1,3 +1,5 @@
+## fork from https://github.com/hooke007/MPV_lazy
+
 # mpv播放器折腾记录
 
 _从萌新到大白，<s>用前嫌麻烦</s> 用后真香_  
